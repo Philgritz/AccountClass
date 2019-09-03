@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AccountClass {
 
-    class Customer {
+    public class Customer {
 
   
         private static int nextIdNbr = 0;   // static = only 1 for the class, all instances share it
